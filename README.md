@@ -19,6 +19,7 @@ Earlier this was private but I just made it public.
 The structuring is also very good everything well separated => `components <-> screens`
 
 This uses :
+
 Redux
 Redux SAGA => middleware
 API Sauce
