@@ -4,8 +4,8 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 rn_path = '../node_modules/react-native'
 rn_maps_path = '../node_modules/react-native-maps'
 
-target 'ProfessionalStructuring' do
-  # Pods for ProfessionalStructuring
+target 'LastAttempt' do
+  # Pods for LastAttempt
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -38,7 +38,7 @@ target 'ProfessionalStructuring' do
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
 
-  target 'ProfessionalStructuringTests' do
+  target 'LastAttemptTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -61,10 +61,10 @@ post_install do |installer|
     end
   end
   
-target 'ProfessionalStructuring-tvOS' do
-  # Pods for ProfessionalStructuring-tvOS
+target 'LastAttempt-tvOS' do
+  # Pods for LastAttempt-tvOS
 
-  target 'ProfessionalStructuring-tvOSTests' do
+  target 'LastAttempt-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

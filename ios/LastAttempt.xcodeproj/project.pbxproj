@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* ProfessionalStructuringTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ProfessionalStructuringTests.m */; };
+		00E356F31AD99517003FC87E /* LastAttemptTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* LastAttemptTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -22,18 +22,18 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* ProfessionalStructuringTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ProfessionalStructuringTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* LastAttemptTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* LastAttemptTests.m */; };
 		411219187B9E4129B56B0F62 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C66AAE98736541BD9AA9EFD5 /* FontAwesome5_Brands.ttf */; };
 		427AECE85A6642BFB96C1CF3 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9390C7DD78764F2585914027 /* MaterialIcons.ttf */; };
 		485B0B3EDE914B6BBF8740FE /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC182FA7FDA84DE7A7F6A51F /* FontAwesome.ttf */; };
 		5662A523A9AB4B78B4F81A0E /* rubicon-icon-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F0BEEB52CAC74D2689697513 /* rubicon-icon-font.ttf */; };
 		5F271F51D58D4F6D8B1F3DBD /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0C0596D1B3C747ACB92123D2 /* Foundation.ttf */; };
-		8939488371B3201B2049217E /* libPods-ProfessionalStructuringTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EDF8CDF209CD4B2A95982BB /* libPods-ProfessionalStructuringTests.a */; };
+		8939488371B3201B2049217E /* libPods-LastAttemptTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EDF8CDF209CD4B2A95982BB /* libPods-LastAttemptTests.a */; };
 		8A6CCC954A3D4FF3BC765945 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F233056605C7401C8100001A /* FontAwesome5_Regular.ttf */; };
 		916397D91995470E876A808E /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D34EB55ABE2349199EE9EE5E /* Entypo.ttf */; };
-		957FECE6E98260DBA08D06C1 /* libPods-ProfessionalStructuring.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E80C9ABF0233FE1C4BE93D92 /* libPods-ProfessionalStructuring.a */; };
+		957FECE6E98260DBA08D06C1 /* libPods-LastAttempt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E80C9ABF0233FE1C4BE93D92 /* libPods-LastAttempt.a */; };
 		9A878F6577354E3094792DE0 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B7855FB2EA425BB130411A /* Fontisto.ttf */; };
-		A5548A6BF93D3F96BDFFCEA7 /* libPods-ProfessionalStructuring-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73545853923D63FFAA3B8CF9 /* libPods-ProfessionalStructuring-tvOS.a */; };
+		A5548A6BF93D3F96BDFFCEA7 /* libPods-LastAttempt-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73545853923D63FFAA3B8CF9 /* libPods-LastAttempt-tvOS.a */; };
 		ABDF8FAEA8EC46358E2DD4DA /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 667F8F0A8D5E4BF8B0ED2A2C /* FontAwesome5_Solid.ttf */; };
 		B001C221B7AD48FD96379443 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 044896E7B2544F749597D8EE /* EvilIcons.ttf */; };
 		BF13954EBEB44821AF701D30 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 276A7B59D61C4B6C94A34658 /* Zocial.ttf */; };
@@ -44,7 +44,7 @@
 		E31A4C05E7B44C0AA8761A39 /* Roboto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F1C35EE21A24A908567FD90 /* Roboto.ttf */; };
 		ECAB07AC391B4034954EE2CE /* Roboto_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52FBBF166D8241C0A410686C /* Roboto_medium.ttf */; };
 		F0371C50D4BF4D048486B1EE /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1257FA7EA2DF4B479CA631DA /* Feather.ttf */; };
-		F16242AC646EA4E5683BFDF0 /* libPods-ProfessionalStructuring-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FCEB264C8850EBF4AA4467D /* libPods-ProfessionalStructuring-tvOSTests.a */; };
+		F16242AC646EA4E5683BFDF0 /* libPods-LastAttempt-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FCEB264C8850EBF4AA4467D /* libPods-LastAttempt-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,65 +53,65 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = ProfessionalStructuring;
+			remoteInfo = LastAttempt;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "ProfessionalStructuring-tvOS";
+			remoteInfo = "LastAttempt-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* ProfessionalStructuringTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProfessionalStructuringTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* LastAttemptTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LastAttemptTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* ProfessionalStructuringTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfessionalStructuringTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* LastAttemptTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LastAttemptTests.m; sourceTree = "<group>"; };
 		044896E7B2544F749597D8EE /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		04B7855FB2EA425BB130411A /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/native-base/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		0C0596D1B3C747ACB92123D2 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/native-base/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
-		118638C004CCC7D356AA1EB9 /* Pods-ProfessionalStructuring.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring.release.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring/Pods-ProfessionalStructuring.release.xcconfig"; sourceTree = "<group>"; };
+		118638C004CCC7D356AA1EB9 /* Pods-LastAttempt.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt.release.xcconfig"; path = "Target Support Files/Pods-LastAttempt/Pods-LastAttempt.release.xcconfig"; sourceTree = "<group>"; };
 		1257FA7EA2DF4B479CA631DA /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/native-base/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* ProfessionalStructuring.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProfessionalStructuring.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ProfessionalStructuring/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ProfessionalStructuring/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* LastAttempt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LastAttempt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = LastAttempt/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = LastAttempt/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ProfessionalStructuring/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ProfessionalStructuring/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ProfessionalStructuring/main.m; sourceTree = "<group>"; };
-		1FCEB264C8850EBF4AA4467D /* libPods-ProfessionalStructuring-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProfessionalStructuring-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = LastAttempt/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = LastAttempt/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = LastAttempt/main.m; sourceTree = "<group>"; };
+		1FCEB264C8850EBF4AA4467D /* libPods-LastAttempt-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LastAttempt-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		224577FB2377FEF300AFDCE7 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		224577FC2377FEF500AFDCE7 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		224577FD2377FEF500AFDCE7 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
 		224577FE2377FEF600AFDCE7 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 		224577FF2377FEF600AFDCE7 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		224578052377FF2000AFDCE7 /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-SemiBold.ttf"; sourceTree = "<group>"; };
-		247F5A36E3391507CC32D8E3 /* Pods-ProfessionalStructuringTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuringTests.debug.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuringTests/Pods-ProfessionalStructuringTests.debug.xcconfig"; sourceTree = "<group>"; };
+		247F5A36E3391507CC32D8E3 /* Pods-LastAttemptTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttemptTests.debug.xcconfig"; path = "Target Support Files/Pods-LastAttemptTests/Pods-LastAttemptTests.debug.xcconfig"; sourceTree = "<group>"; };
 		276A7B59D61C4B6C94A34658 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ProfessionalStructuring-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* ProfessionalStructuring-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ProfessionalStructuring-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* LastAttempt-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LastAttempt-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* LastAttempt-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LastAttempt-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52FBBF166D8241C0A410686C /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
-		5EDF8CDF209CD4B2A95982BB /* libPods-ProfessionalStructuringTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProfessionalStructuringTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EDF8CDF209CD4B2A95982BB /* libPods-LastAttemptTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LastAttemptTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		667F8F0A8D5E4BF8B0ED2A2C /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
-		73545853923D63FFAA3B8CF9 /* libPods-ProfessionalStructuring-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProfessionalStructuring-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		73545853923D63FFAA3B8CF9 /* libPods-LastAttempt-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LastAttempt-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F1C35EE21A24A908567FD90 /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
 		9390C7DD78764F2585914027 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		94BC092149934525A1FD0665 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		98CF3F11423750F17D00374E /* Pods-ProfessionalStructuring-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring-tvOS/Pods-ProfessionalStructuring-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		98CF3F11423750F17D00374E /* Pods-LastAttempt-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt-tvOS.release.xcconfig"; path = "Target Support Files/Pods-LastAttempt-tvOS/Pods-LastAttempt-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		ACDA254C615242C391908D03 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		AE241065E48231D2F20727A9 /* Pods-ProfessionalStructuring-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring-tvOS/Pods-ProfessionalStructuring-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		BF8CEA092C28D0A1AFB4B967 /* Pods-ProfessionalStructuring-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring-tvOSTests/Pods-ProfessionalStructuring-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AE241065E48231D2F20727A9 /* Pods-LastAttempt-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-LastAttempt-tvOS/Pods-LastAttempt-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		BF8CEA092C28D0A1AFB4B967 /* Pods-LastAttempt-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-LastAttempt-tvOSTests/Pods-LastAttempt-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C0FE237302C144B9834D75B1 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/native-base/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		C66AAE98736541BD9AA9EFD5 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
-		C97F875A44C55D5CB185225A /* Pods-ProfessionalStructuring-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring-tvOSTests/Pods-ProfessionalStructuring-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		CC36F055A8FC7A0B5BBB3E7B /* Pods-ProfessionalStructuring.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuring.debug.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuring/Pods-ProfessionalStructuring.debug.xcconfig"; sourceTree = "<group>"; };
-		CCEA4299B453E8A5F19FCD91 /* Pods-ProfessionalStructuringTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProfessionalStructuringTests.release.xcconfig"; path = "Target Support Files/Pods-ProfessionalStructuringTests/Pods-ProfessionalStructuringTests.release.xcconfig"; sourceTree = "<group>"; };
+		C97F875A44C55D5CB185225A /* Pods-LastAttempt-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-LastAttempt-tvOSTests/Pods-LastAttempt-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		CC36F055A8FC7A0B5BBB3E7B /* Pods-LastAttempt.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttempt.debug.xcconfig"; path = "Target Support Files/Pods-LastAttempt/Pods-LastAttempt.debug.xcconfig"; sourceTree = "<group>"; };
+		CCEA4299B453E8A5F19FCD91 /* Pods-LastAttemptTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LastAttemptTests.release.xcconfig"; path = "Target Support Files/Pods-LastAttemptTests/Pods-LastAttemptTests.release.xcconfig"; sourceTree = "<group>"; };
 		D34EB55ABE2349199EE9EE5E /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		D6721FFE4D454516B09B3222 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		E20A8A05695E4ABB8C7EA36B /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
-		E80C9ABF0233FE1C4BE93D92 /* libPods-ProfessionalStructuring.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProfessionalStructuring.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E80C9ABF0233FE1C4BE93D92 /* libPods-LastAttempt.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LastAttempt.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F0BEEB52CAC74D2689697513 /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
@@ -124,7 +124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8939488371B3201B2049217E /* libPods-ProfessionalStructuringTests.a in Frameworks */,
+				8939488371B3201B2049217E /* libPods-LastAttemptTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,7 +132,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				957FECE6E98260DBA08D06C1 /* libPods-ProfessionalStructuring.a in Frameworks */,
+				957FECE6E98260DBA08D06C1 /* libPods-LastAttempt.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,7 +140,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5548A6BF93D3F96BDFFCEA7 /* libPods-ProfessionalStructuring-tvOS.a in Frameworks */,
+				A5548A6BF93D3F96BDFFCEA7 /* libPods-LastAttempt-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,20 +148,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F16242AC646EA4E5683BFDF0 /* libPods-ProfessionalStructuring-tvOSTests.a in Frameworks */,
+				F16242AC646EA4E5683BFDF0 /* libPods-LastAttempt-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* ProfessionalStructuringTests */ = {
+		00E356EF1AD99517003FC87E /* LastAttemptTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* ProfessionalStructuringTests.m */,
+				00E356F21AD99517003FC87E /* LastAttemptTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = ProfessionalStructuringTests;
+			path = LastAttemptTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -172,7 +172,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* ProfessionalStructuring */ = {
+		13B07FAE1A68108700A75B9A /* LastAttempt */ = {
 			isa = PBXGroup;
 			children = (
 				224577FA2377FECA00AFDCE7 /* assets */,
@@ -184,7 +184,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = ProfessionalStructuring;
+			name = LastAttempt;
 			sourceTree = "<group>";
 		};
 		224577FA2377FECA00AFDCE7 /* assets */ = {
@@ -205,10 +205,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				E80C9ABF0233FE1C4BE93D92 /* libPods-ProfessionalStructuring.a */,
-				73545853923D63FFAA3B8CF9 /* libPods-ProfessionalStructuring-tvOS.a */,
-				1FCEB264C8850EBF4AA4467D /* libPods-ProfessionalStructuring-tvOSTests.a */,
-				5EDF8CDF209CD4B2A95982BB /* libPods-ProfessionalStructuringTests.a */,
+				E80C9ABF0233FE1C4BE93D92 /* libPods-LastAttempt.a */,
+				73545853923D63FFAA3B8CF9 /* libPods-LastAttempt-tvOS.a */,
+				1FCEB264C8850EBF4AA4467D /* libPods-LastAttempt-tvOSTests.a */,
+				5EDF8CDF209CD4B2A95982BB /* libPods-LastAttemptTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -249,9 +249,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* ProfessionalStructuring */,
+				13B07FAE1A68108700A75B9A /* LastAttempt */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* ProfessionalStructuringTests */,
+				00E356EF1AD99517003FC87E /* LastAttemptTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				9F15637790A7DE5BB2C17CB8 /* Pods */,
@@ -265,10 +265,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* ProfessionalStructuring.app */,
-				00E356EE1AD99517003FC87E /* ProfessionalStructuringTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* ProfessionalStructuring-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* LastAttempt.app */,
+				00E356EE1AD99517003FC87E /* LastAttemptTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* LastAttempt-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* LastAttempt-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -276,14 +276,14 @@
 		9F15637790A7DE5BB2C17CB8 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CC36F055A8FC7A0B5BBB3E7B /* Pods-ProfessionalStructuring.debug.xcconfig */,
-				118638C004CCC7D356AA1EB9 /* Pods-ProfessionalStructuring.release.xcconfig */,
-				AE241065E48231D2F20727A9 /* Pods-ProfessionalStructuring-tvOS.debug.xcconfig */,
-				98CF3F11423750F17D00374E /* Pods-ProfessionalStructuring-tvOS.release.xcconfig */,
-				BF8CEA092C28D0A1AFB4B967 /* Pods-ProfessionalStructuring-tvOSTests.debug.xcconfig */,
-				C97F875A44C55D5CB185225A /* Pods-ProfessionalStructuring-tvOSTests.release.xcconfig */,
-				247F5A36E3391507CC32D8E3 /* Pods-ProfessionalStructuringTests.debug.xcconfig */,
-				CCEA4299B453E8A5F19FCD91 /* Pods-ProfessionalStructuringTests.release.xcconfig */,
+				CC36F055A8FC7A0B5BBB3E7B /* Pods-LastAttempt.debug.xcconfig */,
+				118638C004CCC7D356AA1EB9 /* Pods-LastAttempt.release.xcconfig */,
+				AE241065E48231D2F20727A9 /* Pods-LastAttempt-tvOS.debug.xcconfig */,
+				98CF3F11423750F17D00374E /* Pods-LastAttempt-tvOS.release.xcconfig */,
+				BF8CEA092C28D0A1AFB4B967 /* Pods-LastAttempt-tvOSTests.debug.xcconfig */,
+				C97F875A44C55D5CB185225A /* Pods-LastAttempt-tvOSTests.release.xcconfig */,
+				247F5A36E3391507CC32D8E3 /* Pods-LastAttemptTests.debug.xcconfig */,
+				CCEA4299B453E8A5F19FCD91 /* Pods-LastAttemptTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -291,9 +291,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* ProfessionalStructuringTests */ = {
+		00E356ED1AD99517003FC87E /* LastAttemptTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ProfessionalStructuringTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "LastAttemptTests" */;
 			buildPhases = (
 				364E3AD2870DBB67CF61A207 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -305,14 +305,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = ProfessionalStructuringTests;
-			productName = ProfessionalStructuringTests;
-			productReference = 00E356EE1AD99517003FC87E /* ProfessionalStructuringTests.xctest */;
+			name = LastAttemptTests;
+			productName = LastAttemptTests;
+			productReference = 00E356EE1AD99517003FC87E /* LastAttemptTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* ProfessionalStructuring */ = {
+		13B07F861A680F5B00A75B9A /* LastAttempt */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ProfessionalStructuring" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "LastAttempt" */;
 			buildPhases = (
 				73A22D134297F428D527AE6B /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -325,14 +325,14 @@
 			);
 			dependencies = (
 			);
-			name = ProfessionalStructuring;
-			productName = ProfessionalStructuring;
-			productReference = 13B07F961A680F5B00A75B9A /* ProfessionalStructuring.app */;
+			name = LastAttempt;
+			productName = LastAttempt;
+			productReference = 13B07F961A680F5B00A75B9A /* LastAttempt.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* LastAttempt-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ProfessionalStructuring-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "LastAttempt-tvOS" */;
 			buildPhases = (
 				791E9893B73FB94E79FB0C46 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -345,14 +345,14 @@
 			);
 			dependencies = (
 			);
-			name = "ProfessionalStructuring-tvOS";
-			productName = "ProfessionalStructuring-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS.app */;
+			name = "LastAttempt-tvOS";
+			productName = "LastAttempt-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* LastAttempt-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* ProfessionalStructuring-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* LastAttempt-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ProfessionalStructuring-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "LastAttempt-tvOSTests" */;
 			buildPhases = (
 				CD1E0FB3E7FE6C579BC9B933 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -364,9 +364,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "ProfessionalStructuring-tvOSTests";
-			productName = "ProfessionalStructuring-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* ProfessionalStructuring-tvOSTests.xctest */;
+			name = "LastAttempt-tvOSTests";
+			productName = "LastAttempt-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* LastAttempt-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -396,7 +396,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ProfessionalStructuring" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "LastAttempt" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -410,10 +410,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* ProfessionalStructuring */,
-				00E356ED1AD99517003FC87E /* ProfessionalStructuringTests */,
-				2D02E47A1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* ProfessionalStructuring-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* LastAttempt */,
+				00E356ED1AD99517003FC87E /* LastAttemptTests */,
+				2D02E47A1E0B4A5D006451C7 /* LastAttempt-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* LastAttempt-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -521,7 +521,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ProfessionalStructuringTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LastAttemptTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -543,7 +543,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ProfessionalStructuring-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LastAttempt-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -565,7 +565,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ProfessionalStructuring-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LastAttempt-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -587,7 +587,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ProfessionalStructuring-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LastAttempt-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -639,7 +639,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* ProfessionalStructuringTests.m in Sources */,
+				00E356F31AD99517003FC87E /* LastAttemptTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -665,7 +665,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* ProfessionalStructuringTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* LastAttemptTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -674,12 +674,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* ProfessionalStructuring */;
+			target = 13B07F861A680F5B00A75B9A /* LastAttempt */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* ProfessionalStructuring-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* LastAttempt-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -691,7 +691,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = ProfessionalStructuring;
+			path = LastAttempt;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -699,14 +699,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 247F5A36E3391507CC32D8E3 /* Pods-ProfessionalStructuringTests.debug.xcconfig */;
+			baseConfigurationReference = 247F5A36E3391507CC32D8E3 /* Pods-LastAttemptTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ProfessionalStructuringTests/Info.plist;
+				INFOPLIST_FILE = LastAttemptTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -716,17 +716,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProfessionalStructuring.app/ProfessionalStructuring";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LastAttempt.app/LastAttempt";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CCEA4299B453E8A5F19FCD91 /* Pods-ProfessionalStructuringTests.release.xcconfig */;
+			baseConfigurationReference = CCEA4299B453E8A5F19FCD91 /* Pods-LastAttemptTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = ProfessionalStructuringTests/Info.plist;
+				INFOPLIST_FILE = LastAttemptTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -736,19 +736,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProfessionalStructuring.app/ProfessionalStructuring";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LastAttempt.app/LastAttempt";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC36F055A8FC7A0B5BBB3E7B /* Pods-ProfessionalStructuring.debug.xcconfig */;
+			baseConfigurationReference = CC36F055A8FC7A0B5BBB3E7B /* Pods-LastAttempt.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 5XWUFW36R4;
-				INFOPLIST_FILE = ProfessionalStructuring/Info.plist;
+				INFOPLIST_FILE = LastAttempt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -756,19 +756,19 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ProfessionalStructuring;
+				PRODUCT_NAME = LastAttempt;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 118638C004CCC7D356AA1EB9 /* Pods-ProfessionalStructuring.release.xcconfig */;
+			baseConfigurationReference = 118638C004CCC7D356AA1EB9 /* Pods-LastAttempt.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5XWUFW36R4;
-				INFOPLIST_FILE = ProfessionalStructuring/Info.plist;
+				INFOPLIST_FILE = LastAttempt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -776,14 +776,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ProfessionalStructuring;
+				PRODUCT_NAME = LastAttempt;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AE241065E48231D2F20727A9 /* Pods-ProfessionalStructuring-tvOS.debug.xcconfig */;
+			baseConfigurationReference = AE241065E48231D2F20727A9 /* Pods-LastAttempt-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -794,14 +794,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ProfessionalStructuring-tvOS/Info.plist";
+				INFOPLIST_FILE = "LastAttempt-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProfessionalStructuring-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.LastAttempt-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -811,7 +811,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 98CF3F11423750F17D00374E /* Pods-ProfessionalStructuring-tvOS.release.xcconfig */;
+			baseConfigurationReference = 98CF3F11423750F17D00374E /* Pods-LastAttempt-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -822,14 +822,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ProfessionalStructuring-tvOS/Info.plist";
+				INFOPLIST_FILE = "LastAttempt-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProfessionalStructuring-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.LastAttempt-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -839,7 +839,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BF8CEA092C28D0A1AFB4B967 /* Pods-ProfessionalStructuring-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = BF8CEA092C28D0A1AFB4B967 /* Pods-LastAttempt-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -849,24 +849,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ProfessionalStructuring-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "LastAttempt-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProfessionalStructuring-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.LastAttempt-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProfessionalStructuring-tvOS.app/ProfessionalStructuring-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LastAttempt-tvOS.app/LastAttempt-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C97F875A44C55D5CB185225A /* Pods-ProfessionalStructuring-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = C97F875A44C55D5CB185225A /* Pods-LastAttempt-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -876,17 +876,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ProfessionalStructuring-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "LastAttempt-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProfessionalStructuring-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.LastAttempt-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProfessionalStructuring-tvOS.app/ProfessionalStructuring-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LastAttempt-tvOS.app/LastAttempt-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -993,7 +993,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ProfessionalStructuringTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "LastAttemptTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1002,7 +1002,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ProfessionalStructuring" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "LastAttempt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1011,7 +1011,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ProfessionalStructuring-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "LastAttempt-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1020,7 +1020,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ProfessionalStructuring-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "LastAttempt-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1029,7 +1029,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ProfessionalStructuring" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "LastAttempt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

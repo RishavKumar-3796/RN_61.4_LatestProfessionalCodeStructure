@@ -5,7 +5,7 @@ import sagaPlugin from 'reactotron-redux-saga';
 if (__DEV__) {
   // https://github.com/infinitered/reactotron for more options!
   Reactotron
-    .configure({ name: 'ProfessionalStructuring' })
+    .configure({ name: 'LastAttempt' })
     .useReactNative()
     .use(reduxPlugin())
     .use(sagaPlugin())

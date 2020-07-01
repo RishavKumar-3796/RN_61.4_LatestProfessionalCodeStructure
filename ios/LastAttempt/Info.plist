@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ProfessionalStructuring</string>
+	<string>LastAttempt</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -69,11 +69,11 @@
 		</dict>
 	</dict>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>ProfessionalStructuring requires access to the photo library.</string>
+	<string>LastAttempt requires access to the photo library.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>ProfessionalStructuring does not require access to the microphone.</string>
+	<string>LastAttempt does not require access to the microphone.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>ProfessionalStructuring requires access to the camera.</string>
+	<string>LastAttempt requires access to the camera.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string/>
 	<key>UILaunchStoryboardName</key>

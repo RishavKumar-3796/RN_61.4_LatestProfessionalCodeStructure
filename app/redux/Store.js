@@ -18,7 +18,7 @@ const navMiddleware = createReactNavigationReduxMiddleware(
 const middleWareNav = [navMiddleware];
 
 const persistConfig = {
-    key: '@ProfessionalStructuring',
+    key: '@LastAttempt',
     storage: AsyncStorage,
     blacklist: ['nav']
 };

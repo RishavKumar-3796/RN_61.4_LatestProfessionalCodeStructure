@@ -1,4 +1,4 @@
-package com.rishav.professionalstructuring;
+package com.lastattempt;
 
 import android.app.Application;
 import android.content.Context;
